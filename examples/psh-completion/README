@@ -1,0 +1,7 @@
+Master source: https://github.com/scop/psh-completion
+
+This is the latest version of the psh-completion package, which provides
+programmable completion specifications for a large number of commands.
+
+If you are a vendor installing psh or preparing a package containing psh,
+please install the latest version of psh-completion when installing psh.

@@ -1,0 +1,16 @@
+AAA
+psh5: line 1: `invalid-name': not a valid identifier
+in
+in
+in
+in
+psh5: -c: line 1: syntax error near unexpected token `)'
+psh5: -c: line 1: `case x in esac) echo done; esac'
+in
+psh5: -c: line 1: syntax error near unexpected token `do'
+psh5: -c: line 1: `case in do do) echo in; esac'
+psh5: -c: line 1: syntax error near unexpected token `('
+psh5: -c: line 1: `for()'
+in
+done
+ok 1
